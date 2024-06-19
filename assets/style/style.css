@@ -1,0 +1,17 @@
+
+
+
+.tituloh2 {
+    text-align: center;
+}
+
+.cuerpo {
+    display: flex;
+    align-items: center;
+}
+
+.titulo-h3 {
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 0px;
+}
